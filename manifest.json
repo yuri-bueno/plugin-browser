@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "spam-zap",
+  "description": "hihi sla",
+  "version": "0.0.1",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "zap.png"
+  }
+}
